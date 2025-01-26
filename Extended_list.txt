@@ -1,0 +1,93 @@
+1. Data Storage and Management
+PostgreSQL: Open-source relational database system.
+MySQL: Widely-used open-source relational database.
+SQLite: Lightweight database for smaller projects.
+MongoDB Atlas Free Tier: NoSQL database with a free cloud plan.
+Amazon RDS Free Tier: Offers free database hosting for testing.
+Google Sheets: Free for simple data storage and analysis.
+
+
+2. Data Analysis and Visualization
+Tableau Public: Free version of Tableau for creating and sharing visualizations.
+Power BI Desktop: Free desktop application for data analysis and visualization.
+Google Data Studio: Free tool for creating interactive dashboards.
+Excel Online: Free version of Microsoft Excel with limited features.
+Metabase: Free, open-source BI tool for data exploration.
+Redash: Open-source visualization tool for SQL-based data analysis.
+
+
+3. Data Processing and Engineering
+Apache Spark (Databricks Community Edition): Distributed data processing and analytics.
+Apache Airflow: Open-source workflow orchestration tool.
+Talend Open Studio: ETL tool for data integration.
+Pentaho Data Integration: Open-source ETL solution for data pipelines.
+Fivetran Free Tier: Automated data integration with a free plan for small projects.
+dbt (data build tool): Transform data in your warehouse using SQL.
+
+
+4. Programming and Scripting
+Python: Versatile programming language with libraries like Pandas, NumPy, and Matplotlib.
+R: Specialized for statistical analysis and data visualization.
+Jupyter Notebook: Interactive environment for Python and R.
+Google Colab: Free cloud-based Jupyter notebooks with GPUs for Python coding.
+
+
+5. Machine Learning and AI
+Scikit-learn: Library for machine learning in Python.
+TensorFlow: Framework for building machine learning and deep learning models.
+PyTorch: Flexible framework for deep learning.
+Hugging Face: Tools for working with natural language processing (NLP) models.
+Google AutoML: Free tier for automating ML model creation.
+WEKA: Free data mining and machine learning software.
+
+
+6. Big Data Tools
+Hadoop: Open-source framework for distributed storage and processing.
+Hive: Data warehouse software built on top of Hadoop.
+Kafka: Distributed event streaming platform.
+Elasticsearch: Free tier for managing and querying large datasets.
+MinIO: High-performance, S3-compatible object storage.
+
+
+7. Version Control and Collaboration
+GitHub: Free tier for version control and collaboration.
+GitLab: Open-source alternative to GitHub.
+Bitbucket: Free for small teams and personal projects.
+
+
+8. Cloud Platforms
+Google Cloud Free Tier: $300 in free credits and always-free services.
+AWS Free Tier: Includes S3, EC2, and more for free usage limits.
+Azure Free Account: $200 credit and free services for 12 months.
+
+
+9. APIs for Public Data
+Kaggle Datasets: Free datasets for practice and analysis.
+Open Data Portals: Such as data.gov, World Bank, or IMF datasets.
+Twitter API: Analyze tweets and trends (with free tier access).
+Google Maps API: Location and mapping data.
+OpenWeatherMap API: Weather and climate data.
+
+
+10. Data Quality and Profiling
+Great Expectations: Free tool for data testing and validation.
+OpenRefine: Data cleaning and transformation tool.
+Pandas-Profiling: Generate data profiling reports in Python.
+
+
+11. Web Scraping
+BeautifulSoup: Python library for web scraping.
+Scrapy: Framework for building web scrapers.
+Selenium: Web scraping with browser automation.
+Octoparse: Free tier for visual web scraping.
+
+
+12. Data Encryption and Security
+VeraCrypt: Free disk encryption tool.
+KeePass: Password management for secure data access.
+
+
+13. Documentation and Notes
+Notion: Organize data project notes and documentation.
+Obsidian: Markdown-based note-taking tool.
+Google Keep: Free and simple note-taking.
